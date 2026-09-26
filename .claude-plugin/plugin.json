@@ -5,5 +5,5 @@
   "version": "0.0.2",
   "description": "description",
   "author": {"name": "Your Name", "url": "randomi.randomj", "email": "randomi.randomj@gmail.com" },
-  "icon": "icon.svg"
+  "icon": ".claude-plugin/icon.svg"
 }
