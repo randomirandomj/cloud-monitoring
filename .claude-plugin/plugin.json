@@ -2,5 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/randomirandomj/cloud-monitoring/main/schemas/manifest.schema.json",
   "license": "MIT",
   "name": "cloud-monitoring",
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "description": "…",
+  "author":  "name": "me" ,
+  "icon": "icon.svg"
 }
