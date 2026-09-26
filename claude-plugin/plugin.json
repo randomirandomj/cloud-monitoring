@@ -1,1 +1,5 @@
-
+{
+  "$schema": "https://raw.githubusercontent.com/your-org/your-repo/main/schemas/manifest.schema.json",
+  "name": "Cloud Monitoring",
+  "version": "1.0.0"
+}
