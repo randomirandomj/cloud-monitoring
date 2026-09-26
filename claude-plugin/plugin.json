@@ -1,5 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/randomirandomj/cloud-monitoring/main/schemas/manifest.schema.json",
-  "name": "Cloud Monitoring",
-  "version": "0.0.1"
-}
